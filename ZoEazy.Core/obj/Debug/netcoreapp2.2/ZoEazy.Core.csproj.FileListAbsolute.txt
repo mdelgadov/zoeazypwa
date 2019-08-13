@@ -1,0 +1,6 @@
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\bin\Debug\netcoreapp2.2\ZoEazy.Core.deps.json
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\bin\Debug\netcoreapp2.2\ZoEazy.Core.dll
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\obj\Debug\netcoreapp2.2\ZoEazy.Core.csprojAssemblyReference.cache
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\obj\Debug\netcoreapp2.2\ZoEazy.Core.csproj.CoreCompileInputs.cache
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\obj\Debug\netcoreapp2.2\ZoEazy.Core.AssemblyInfoInputs.cache
+C:\Users\mdelg\Source\Repos\ZoEazy\ZoEazy.Core\obj\Debug\netcoreapp2.2\ZoEazy.Core.AssemblyInfo.cs

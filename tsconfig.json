@@ -1,0 +1,77 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+    "importHelpers": true,
+		"sourceMap": true,
+		"declaration": false,
+		"moduleResolution": "node",
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"target": "es5",
+		"types": [
+			"jest"
+		],
+		"typeRoots": [
+			"node_modules/@types"
+		],
+		"lib": [
+			"es2017",
+			"dom"
+		],
+		"baseUrl": ".",
+		"paths": {
+			"@zoe/*": [
+				"libs/*"
+			],
+			"@default/*": [
+				"apps/conduit/src/app/*"
+			],
+			"@env/*": [
+				"apps/conduit/src/environments/*"
+			],
+			"@zoe/api": [
+				"libs/api/src/index.ts"
+			],
+			"@zoe/article": [
+				"libs/article/src/index.ts"
+			],
+			"@zoe/article-list": [
+				"libs/article-list/src/index.ts"
+			],
+			"@zoe/auth": [
+				"libs/auth/src/index.ts"
+			],
+			"@zoe/core": [
+				"libs/core/src/index.ts"
+			],
+			"@zoe/editor": [
+				"libs/editor/src/index.ts"
+			],
+			"@zoe/home": [
+				"libs/home/src/index.ts"
+			],
+			"@zoe/ngrx-error": [
+				"libs/ngrx-error/src/index.ts"
+			],
+			"@zoe/ngrx-forms": [
+				"libs/ngrx-forms/src/index.ts"
+			],
+			"@zoe/profile": [
+				"libs/profile/src/index.ts"
+			],
+			"@zoe/ngrx-router": [
+				"libs/ngrx-router/src/index.ts"
+			],
+			"@zoe/settings": [
+				"libs/settings/src/index.ts"
+			],
+			"@zoe/shared": [
+				"libs/shared/src/index.ts"
+			]
+		}
+	},
+	"exclude": [
+		"node_modules",
+		"tmp"
+	]
+}
